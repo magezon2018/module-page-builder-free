@@ -45,7 +45,7 @@ You can hide elements on specific devices and customize design options for each 
 Besides, within the builder, you can switch between device screens to preview how your content looks and make it more responsive.
 
 ### 15 Built-in Elements
-![15 built-in elements](https://www.magezon.com/pub/media/magezon-pagebuilder/free-trial/reposonsive.jpg)
+![15 built-in elements](https://www.magezon.com/pub/media/magezon-pagebuilder/page-builder-free-elements.jpg)
 
 Our free page builder comes with 15 content elements, including Row, Section, Heading, Text Block, Empty Space, Separator, Button, Single Image, Icon, Tabs, Product Grid, Product Slider, Accordion, Generate Block,  and Magento Widget. 
 
